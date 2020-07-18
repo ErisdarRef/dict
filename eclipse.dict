@@ -24,7 +24,7 @@ au
 auth
 behaviour
 bitfield
-bitstream
+bitstreaminit
 ble
 blu
 bluefruit
@@ -166,6 +166,7 @@ lsb
 lu
 malloc
 mashup
+mashuprev
 maskable
 mcu
 melexis
@@ -237,6 +238,7 @@ rel
 repo
 resp
 retval
+rev
 rev
 revoir
 rslt
