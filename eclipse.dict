@@ -25,6 +25,7 @@ assum
 atollic
 au
 auth
+backlight
 behaviour
 bitfield
 bitstreaminit
@@ -56,6 +57,7 @@ cout
 cpu
 crc
 cstring
+ctrl
 cubemx
 curr
 cygwin
@@ -105,6 +107,7 @@ enum
 env
 ergsense
 errata
+espressif
 ethernet
 ewww
 exe
@@ -181,6 +184,7 @@ mcu
 melexis
 mem
 memcpy
+micro
 microchip
 microcontroller
 middleware
@@ -198,6 +202,7 @@ msb
 msg
 msgs
 multi
+mutex
 mutexes
 mux
 newlib
@@ -207,10 +212,11 @@ nordic
 nucleo
 nullptr
 num
-num
+nums
 oct
 octates
 ok
+omg
 opendir
 ops
 org
@@ -234,6 +240,7 @@ pinout
 plugin
 pong
 popup
+portfolio
 postscaler
 ppm
 pragma
@@ -247,9 +254,11 @@ prev
 printf
 println
 proc
+proj
 protctn
 protos
 pwm
+python
 quirk
 quirks
 ralph
@@ -258,6 +267,7 @@ ref
 refs
 reina
 rel
+reloc
 repo
 resp
 retval
@@ -265,6 +275,7 @@ rev
 revoir
 risky
 rslt
+rtos
 rx
 rx
 searchable
@@ -275,8 +286,8 @@ semihosting
 sendto
 servos
 settable
+Shanghai
 shiznit
-microchip
 sig
 silabs
 sim
@@ -301,6 +312,7 @@ stm
 str
 strcmp
 struct
+structs
 subdir
 subdirectories
 subdirectory
@@ -334,7 +346,9 @@ typ
 uart
 un
 uncomment
+uncondensed
 unitary
+unlicense
 uno
 unset
 uptime
@@ -354,9 +368,11 @@ verbosity
 vref
 vs
 watchdog
+waveshare
 wbd
 wi
 wifi
+wiggle
 wiki
 wmissing
 wreturn
@@ -364,6 +380,7 @@ wrt
 wth
 wunused
 wvfm
+www
 xpos
 xsize
 xtag
@@ -374,4 +391,5 @@ xyz
 yay
 ypos
 ysize
-zipcar
+zipcarctrl
+uncondensed
