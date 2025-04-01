@@ -87,6 +87,7 @@ dirs
 disbl
 disp
 dist
+divs
 dma
 docs
 downside
@@ -110,6 +111,11 @@ errata
 espressif
 ethernet
 ewww
+ewwww
+ewwwww
+ewwwwww
+ewwwwwww
+ewwwwwwww
 exe
 ext
 extern
@@ -278,6 +284,7 @@ rslt
 rtos
 rx
 rx
+sdk
 searchable
 sec
 sel
@@ -295,6 +302,7 @@ sizeof
 smartphone
 soln
 sourcecode
+sourced
 spec
 spi
 spp
@@ -391,5 +399,6 @@ xyz
 yay
 ypos
 ysize
+zigbee
 zipcarctrl
 uncondensed
