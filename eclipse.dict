@@ -1,4 +1,5 @@
 abs
+accessor
 adafruit
 adc
 addr
@@ -13,6 +14,7 @@ anote
 ansi
 apache
 api
+apis
 app
 arduino
 arg
@@ -233,7 +235,6 @@ oscope
 ostream
 outputfile
 param
-param
 params
 payload
 pcb
@@ -382,6 +383,7 @@ wi
 wifi
 wiggle
 wiki
+woah
 wmissing
 wreturn
 wrt
